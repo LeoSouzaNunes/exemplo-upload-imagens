@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    transition: 0.4s;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: gray;
+}
+
+#root {
+    width: 100%;
+    min-height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
